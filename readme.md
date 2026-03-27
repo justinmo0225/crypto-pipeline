@@ -54,4 +54,4 @@ The program fetches periodically, updates the CSV, and updates the live plot.
 - CSV append logic is in [`storage.py`](storage.py).
 
 ## License & Contributing
-Simple personal project. Contributions and improvements welcome via edits to the repository.
+Contributions and improvements welcome via edits to the repository.
